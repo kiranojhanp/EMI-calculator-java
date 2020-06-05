@@ -54,7 +54,7 @@ return;
 
 ![emi firmula](https://i.imgur.com/4BhoMs9.png)
 
-So, We'll be calculating this making different methods to make it easier
+So, We'll be calculating using following methods 
 
 ## Methods
 
