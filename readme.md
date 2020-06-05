@@ -1,4 +1,4 @@
-# BMI Calculator
+# EMI Calculator
 
 
 
