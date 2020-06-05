@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EMI calculator</string>
+    <string name="secondary_title">Enter P, R and N</string>
+    <string name="calculate">Calculate</string>
+</resources>
